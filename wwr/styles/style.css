@@ -28,7 +28,7 @@ body {
 }
 
 div #content {
-max-width: 1600px;
+max-width: 1600px;  /* HERE THE WIDTH*/
 margin:auto
 }
 
@@ -68,7 +68,9 @@ nav a:hover {
 }
 
 #background {
+    height: 725px;
     background-color: #A3B18A;
+
 }
 
 
